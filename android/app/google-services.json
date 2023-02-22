@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "154626564487",
+      "project_id": "sankegame-d7490",
+      "storage_bucket": "sankegame-d7490.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:154626564487:android:ba02ca2cb12c24187bf322",
+          "android_client_info": {
+            "package_name": "com.example.snake_game_flutter"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "154626564487-6idernmeptd11fhjvh1j9k5ec9g80vre.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAZocGRf-CakU9GTmzrypXvOtH7IjRIF08"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "154626564487-6idernmeptd11fhjvh1j9k5ec9g80vre.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
