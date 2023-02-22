@@ -1,16 +1,9 @@
 # snake_game_flutter
 
-A new Flutter project.
+I have made a snake game from scratch without using any external packages.I have used firebase to store the name and highscores of the players.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/123383795/220575563-4317f3e7-fed4-4b6a-8617-f956834b7395.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
